@@ -1,5 +1,13 @@
-package Patterns;
+/*
+Pattern Name : number right angle triangle
+1
+1	2
+1	2	3
+1	2	3	4
+1	2	3	4	5
 
+ */
+package Patterns;
 public class Pattern_04 {
     public static void main(String[] args) {
 

@@ -1,3 +1,12 @@
+/*
+Pattern Name : inverted right-angled triangle
+*	*	*	*	*
+	*	*	*	*
+		*	*	*
+			*	*
+				*
+
+ */
 package Patterns;
 
 public class Pattern_07 {

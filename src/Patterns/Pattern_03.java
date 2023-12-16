@@ -1,5 +1,13 @@
-package Patterns;
+/*
+Pattern Name : inverted right-angled triangle
+*	*	*	*	*
+*	*	*	*
+*	*	*
+*	*
+*
 
+*/
+package Patterns;
 public class Pattern_03 {
     public static void main(String[] args) {
 

@@ -1,3 +1,19 @@
+/*
+Pattern Name : horizontal diamond
+
+*
+*	*
+*	*	*
+*	*	*	*
+*	*	*	*	*
+*	*	*	*	*	*
+*	*	*	*	*
+*	*	*	*
+*	*	*
+*	*
+*
+
+ */
 package Patterns;
 
 public class Pattern_05 {

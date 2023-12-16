@@ -1,6 +1,12 @@
+/*
+Pattern name : pyramid
+ 	 	 	*
+ 	 	* 	* 	*
+ 	* 	* 	* 	* 	*
+* 	* 	* 	* 	* 	* 	*
+ */
 package Patterns;
-
-public class Patten_08 {
+public class Pattern_08 {
     public static void main(String[] args) {
         int row = 5;
         int col = (row * 2 ) - 1;

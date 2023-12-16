@@ -1,5 +1,12 @@
+/*
+Pattern Name : Filled Rectangle
+        *	*	*	*	*
+        *	*	*	*	*
+        *	*	*	*	*
+        *	*	*	*	*
+        *	*	*	*	*
+*/
 package Patterns;
-
 public class Pattern_01 {
     public static void main(String[] args) {
         int n=5;

@@ -1,3 +1,12 @@
+/*
+Pattern Name : right-angled triangle
+*
+*	*
+*	*	*
+*	*	*	*
+*	*	*	*	*
+
+*/
 package Patterns;
 
 public class Pattern_02 {
